@@ -1,0 +1,5 @@
+-Create a .eslintrc file;
+-yard add/ npm i
+	- --dev eslint;
+	- --dev eslint-plugin-react
+	- --dev babel-eslint;
